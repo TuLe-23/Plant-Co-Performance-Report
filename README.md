@@ -32,7 +32,7 @@ The analysis provides a snapshot of Plant Co.’s performance across sales, gros
 
 ## Recommendations
 - **Create Private Label Partnerships**
-  - Creating private label partnerships moves beyond commodity wholesale and becomes a growth partner for retailers. Instead of supplying the same plants every competitor can offer, collaborating with retailers   creates exclusive, co-branded, or white-label plant lines tailored to their target customers.
+  - Creating private label partnerships moves beyond commodity wholesale and becomes a growth partner for retailers. Instead of supplying the same plants every competitor can offer, collaborating with retailers creates exclusive, co-branded, or white-label plant lines tailored to their target customers.
   - For Plant Co., private label programs generate consistent, predictable demand, strengthen retailer relationships, and elevate the brand from a bulk vendor to a strategic collaborator in retail success.
  
 - **Eastablish E-commerce Partnerships**
@@ -42,5 +42,5 @@ The analysis provides a snapshot of Plant Co.’s performance across sales, gros
  
 - **Launch a Digital B2B Portal**
   - A B2B digital portal transforms how retailers interact with Plant Co. and makes it easier for them to do business at scale. By providing a self-service platform, this empowers retailers to browse live inventory, place bulk orders, monitor shipments, and access tailored pricing.
-  -  Beyond ordering, the portal can offer value-added tools like demand forecasting dashboards, trend reports by region, marketing collateral downloads, and training resources for retail staff. Features such as AI-driven product recommendations (“best-selling plants in your region”), automated reordering, and subscription-based shipment scheduling.
-  -  This digital ecosystem not only streamlines operations but positions the Plant Co. as a tech-enabled partner—making it easier for retailers to scale their plant businesses while locking in long-term loyalty and recurring demand.
+  -  Beyond ordering, the portal can offer value-added tools like demand forecasting dashboards, trend reports by region, marketing collateral downloads, and training resources for retail staff. This can provide innovative features such as AI-driven product recommendations (“best-selling plants in your region”), automated reordering, and subscription-based shipment scheduling.
+  -  This digital ecosystem not only streamlines operations but positions Plant Co. as a tech-enabled partner, making it easier for retailers to scale their plant businesses while locking in long-term loyalty and recurring demand.
