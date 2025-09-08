@@ -6,7 +6,7 @@
 As a Power BI specialist and data analyst for Plant Co., a global indoor, outdoor, and landscape plant supplier, I was tasked with developing a high-level Power BI dashboard for the executive team. **This performance report uses 5.1k synthetic sales records from January 2022 to April 2024, covering sales, accounts, and products.** The goal was to transform this data into actionable insights to reflect the company’s performance over the years. This analysis provides strategic insights for decision-making by focusing on key areas such as sales, gross profit, and quantity of sold products. It examines year-to-date (YTD) figures, prior year-to-date (PYTD) data, YTD vs. PYTD, and profit.
 
 ## Executive Summary
-The analysis provides a snapshot of Plant Co.’s performance across sales, gross profit, and quantity of items sold. Profit percentages remained consistent across all 2,400 sales annually. While sales figures declined in 2023, the quantity of products sold significantly increased. These trends indicate areas for potential year-over-year sales improvements.
+The analysis provides a snapshot of Plant Co.’s performance across sales, gross profit, and quantity of items sold. Profit percentage remained consistent at 40% across all 2,400 sales annually. While sales figures declined in 2023, the quantity of units sold significantly increased. These trends indicate areas for potential year-over-year sales improvements.
 
 ## Insights Deep-Dive
 - **Sales Analysis**
