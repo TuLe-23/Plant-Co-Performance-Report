@@ -1,6 +1,6 @@
 # Plant Co. - Tailored Performance Report
 
-<img width="1164" height="653" alt="Image" src="https://github.com/user-attachments/assets/ea0b62ab-7b2c-4365-b114-cbe89007218c" />
+<img width="1165" height="655" alt="Image" src="https://github.com/user-attachments/assets/4e75e647-53bd-4b0e-aa5c-d8cb219c7b51" />
 
 ## Project Background
 As a Power BI specialist and data analyst for Plant Co., a global indoor, outdoor, and landscape plant supplier, I was tasked with developing a high-level Power BI dashboard for the executive team. **This performance report uses 5.1k synthetic sales records from January 2022 to April 2024, covering sales, accounts, and products.** The goal was to transform this data into actionable insights to reflect the company’s performance over the years. This analysis provides strategic insights for decision-making by focusing on key areas such as sales, gross profit, and quantity of sold products. It examines year-to-date (YTD) figures, prior year-to-date (PYTD) data, YTD vs. PYTD, and profit.
